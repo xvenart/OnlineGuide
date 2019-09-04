@@ -1,0 +1,12 @@
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\OnlineGuide_Server.exe.config
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\OnlineGuide_Server.exe
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\OnlineGuide_Server.pdb
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\EntityFramework.dll
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\EntityFramework.xml
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\obj\Debug\OnlineGuide_Server.csprojAssemblyReference.cache
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\obj\Debug\OnlineGuide_Server.csproj.CoreCompileInputs.cache
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\obj\Debug\OnlineGuide_Server.csproj.CopyComplete
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\obj\Debug\OnlineGuide_Server.exe
+D:\GitKraken\OnlineGuide\OnlineGuide\OnlineGuide_Server\obj\Debug\OnlineGuide_Server.pdb
